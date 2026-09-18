@@ -1,1 +1,1 @@
-
+EvalTrack is a Student Evaluation System designed to address these challenges by digitizing the assessment workflow. It simplifies test management, automates result generation, stores academic records securely, and provides insightful dashboards for both students and faculty, improving the efficiency and transparency of the evaluation process.
